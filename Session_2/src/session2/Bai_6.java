@@ -28,8 +28,6 @@ public class Bai_6 {
 
             sum += num;
             cnt++;
-
-
         }
 
         System.out.println("---Kết quả thống kê---");
