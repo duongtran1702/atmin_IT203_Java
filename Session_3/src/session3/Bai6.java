@@ -19,9 +19,8 @@ public class Bai6 {
                 j++;
             }
         }
-        
-        while (i < a.length) temp[k++] = a[i++];
 
+        while (i < a.length) temp[k++] = a[i++];
         while (j < b.length) temp[k++] = b[j++];
 
         return Arrays.copyOf(temp, k);

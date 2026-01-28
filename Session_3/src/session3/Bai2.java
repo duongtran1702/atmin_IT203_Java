@@ -3,12 +3,10 @@ package session3;
 import java.util.Scanner;
 
 public class Bai2 {
-
-
     public static int searchBooks(String[] arr, String search){
         int idx =-1;
         for(int i=0;i<arr.length;i++){
-            if(arr[i].equals(search)){
+            if(arr[i].equalsIgnoreCase(search)){
                 idx =i;
                 break;
             }

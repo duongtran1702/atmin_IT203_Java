@@ -40,11 +40,9 @@ public class Bai3 {
                 "Nhà Giả Kim",
                 "Đắc Nhân Tâm"
         };
-
         int[] quantities = {5,3,10,7,4};
 
         maxQuantityOfBooks(names, quantities);
-
         minQuantityOfBooks(names,quantities);
 
     }
