@@ -19,7 +19,7 @@ public class Bai06 {
         }
         matcher.appendTail(sb);
         String processedReview = sb.toString();
-        
+
         if (processedReview.length() > 200) {
             int cutIndex = processedReview.lastIndexOf(" ", 200);
             if (cutIndex != -1) {
