@@ -10,11 +10,11 @@ public class Bai2 {
         System.out.println("b = " + b); // 10
 
         Student st = new Student("Atmin");
-        Student st2 = st;
+//        Student st2 = st;
         st.setStuName("Admin");
 
         System.out.println("s1.name = " + st.getStuName());
-        System.out.println("s2.name = " + st2.getStuName());
+//        System.out.println("s2.name = " + st2.getStuName());
 
     }
 }

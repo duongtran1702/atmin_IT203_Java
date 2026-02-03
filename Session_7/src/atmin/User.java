@@ -2,8 +2,8 @@ package atmin;
 
 public class User {
     private final int id;
-    private String username;
-    private String password;
+    private final String username;
+    private final String password;
 
     public String getPassword() {
         return password;
