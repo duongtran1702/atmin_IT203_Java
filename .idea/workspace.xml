@@ -5,6 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e5d5b63f-9472-4948-a695-a46ccb983c51" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Session_11/src/atmin/Archer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_11/src/atmin/Assassin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_11/src/atmin/GameCharacter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_11/src/atmin/ISkill.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_11/src/atmin/Mage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_11/src/atmin/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_11/src/atmin/Tank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_11/src/atmin/Warrior.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
