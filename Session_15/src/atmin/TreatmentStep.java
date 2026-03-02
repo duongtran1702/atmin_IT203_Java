@@ -1,0 +1,16 @@
+package atmin;
+
+public class TreatmentStep {
+    String description;
+    String time;
+
+    public TreatmentStep(String description, String time) {
+        this.description = description;
+        this.time = time;
+    }
+
+    @Override
+    public String toString() {
+        return "Description: " + description + ", Time: " + time;
+    }
+}
